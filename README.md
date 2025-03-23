@@ -25,7 +25,7 @@ When these Git operations happen, the script automatically:
 
 You can install the script using a one-liner command. Run the following command in your terminal:
 ```sh
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/G4b0rDev/Laravel-Git-Hooks/main/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/G4b0rDev/Laravel-Git-Hooks/main/script.sh)"
 ```
 
 ### Manual Installation
